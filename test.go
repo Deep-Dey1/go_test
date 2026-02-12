@@ -1,4 +1,4 @@
-//file2.go
+//test.go
 
 package test
 
